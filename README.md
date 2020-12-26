@@ -10,3 +10,5 @@ Program 3: a menu-based application that can be used to generate lists of prime 
 Program 4: output the values of two rectangles in ascending order by the size of their areas
 
 Program 5: output the total quantities and value of the inventory items
+
+Program 6: obtain the dates that are to be sorted
